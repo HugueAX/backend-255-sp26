@@ -1,3 +1,4 @@
+
 //setup.. this is similar to when we use our default tags in html
 const express = require("express")
 //we have to use cors in order to host a front end and back end on the same device
